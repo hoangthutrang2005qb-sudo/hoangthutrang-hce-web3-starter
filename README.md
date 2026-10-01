@@ -1,8 +1,11 @@
 
 # ECO2432 Web3 Starter
 **Học phần:** Tiền điện tử và Hợp đồng thông minh
+
 **Giảng viên hướng dẫn:** TS. Hà Ngọc Long
+
 **Đơn vị:** Trường Đại học Kinh tế, Đại học Huế
+
 **Link GitHub:** (https://github.com/hoangthutrang2005qb-sudo/hoangthutrang-hce-web3-starter.git)
 - **Họ và Tên:** Hoàng Thu Trang
 - **Mã Sinh Viên (MSV):** 23K4300021
